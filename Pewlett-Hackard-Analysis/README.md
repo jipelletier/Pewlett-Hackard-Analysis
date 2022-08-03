@@ -11,7 +11,7 @@ In order to assist Pewlett-Hackard understand the number of people likely to ret
 
 ![RetiringTitles.png](https://github.com/jipelletier/Pewlett-Hackard-Analysis/blob/main/RetiringTitles.png)
 
-- 1,549 employees born in 1965 re considered eligible for a training program.
+- 1,549 employees born in 1965 are considered eligible for a training program.
 
 
 - The Senior Staff has 569 current employees eligible for a mentorship. Engineers will have 501 people eligible.
