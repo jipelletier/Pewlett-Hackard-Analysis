@@ -20,3 +20,6 @@ In order to assist Pewlett-Hackard understand the number of people likely to ret
 ![Mentorship.png](https://github.com/jipelletier/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
 
 ## Summary
+In summary, there will be 90,398 open positions over the next few years. With only 1,549 employees eligible for mentorships, Pewitt-Hackard will need to hire 88,849 people externally.
+
+Currently, there are numerous employees close to retirement that are able to train new employees to fill their current roles but the hiring process would need to be fast tracked to make sure there is enough time for proper training to fill the future positions. Unfortunately, there are not enough employees eligible for mentorship since Pewitt Hackard limits this program to those born in 1965. I would reccommend changing this requirement in order to include younger employees. This would allow for people who already work for and thus familiar with the company to expand their horizons and to the company's benefit, fill the many open positions determined to be left open in the next few years.
