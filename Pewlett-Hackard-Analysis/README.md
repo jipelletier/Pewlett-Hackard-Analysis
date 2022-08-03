@@ -17,4 +17,6 @@ In order to assist Pewlett-Hackard understand the number of people likely to ret
 
 - The Senior Staff has 569 current employees eligible for a mentorship. Engineers will have 501 people eligible.
 
+![Mentorship.png](https://github.com/jipelletier/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
 ## Summary
