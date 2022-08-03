@@ -7,7 +7,7 @@ In order to assist Pewlett-Hackard understand the number of people likely to ret
 ![Retiring.png](https://github.com/jipelletier/Pewlett-Hackard-Analysis/blob/main/retiring.png)
 
 - Most people posses the Senior Engineer title and 29,414 will be eligible to retire. Senior Staff will possible be losing 28,254 people as shown below.
-
+![RetiringTitles.png](
 
 - 1,549 employees born in 1965 re considered eligible for a training program.
 
